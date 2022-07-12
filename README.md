@@ -1,2 +1,2 @@
 # cpch
-Interpreter with c++ as the host language, parsing custom syntax rules. 
+Interpreter with C++ as the host language, parsing custom syntax rules. 
